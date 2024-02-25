@@ -1,0 +1,6 @@
+glob2
+face_recognition
+numpy
+opencv-python
+Kivy
+plyer
