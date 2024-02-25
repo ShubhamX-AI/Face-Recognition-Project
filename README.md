@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a real-time face recognition application built using Python, OpenCV, Kivy, and a custom face recognition module. It allows users to detect and identify faces in real-time using a webcam. The application provides a user-friendly interface for starting and stopping face recognition, as well as adding new images for recognition.
+This project is a real-time face recognition application built using Python, OpenCV, Kivy, and a custom face recognition module. It makes it easy for users to detect and identify faces in real-time using a webcam(You can use other sources as you need). The application provides a user-friendly interface for starting and stopping face recognition, as well as adding new images for recognition.
 
 ## Key Features
 
